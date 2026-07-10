@@ -1,6 +1,5 @@
-# Su26 CS 335 Lecture Notes Repository
+# Sp26 CS 335 Lecture Notes Repository
 
-This Git repository is your textbook for CS 335.
 Code examples written in class, demos and other important resources will be found here.
 
 
@@ -9,7 +8,7 @@ Code examples written in class, demos and other important resources will be foun
 Clone the repository to your computer *(do this once)*:
 
 ```
-$ git clone https://gitlab.cs.usu.edu/duckiecorp/su26-cs335-lecturenotes
+$ git clone https://github.com/Ensign-College/sp26-cs335-lecturenotes
 ```
 
 I would like you to *experiment* with the demo programs I include in the lectures.  This is my invitation for you to change and/or break my code.  You can put all files in the repository back to their original state with this command:
@@ -29,8 +28,14 @@ $ git pull origin master
 
 ## Table of Contents
 
-*   [This file](README.md)
-*   [To be determined](TBD.md)
+### Module 1 - Introduction to Data Structures and Algorithms
+*No class this week due to 4th of July holiday*
+
+### Module 2 - Designing and Discovering Algorithms
+01. [Friday, July 10](./Module2/Lec01-Fri_Jul_10/README.md)
+	* [Submitting Today's Participation Artifact](./Module2/Lec01-Fri_Jul_10/README.md#submitting-todays-participation-artifact)
+	* [Code Lab Challenge 0 - Static or Dynamc](./Module2/Lec01-Fri_Jul_10/README.md#code-lab-challenge-0---static-or-dynamc)
+
 
 
 
