@@ -33,8 +33,14 @@ $ git pull origin master
 
 ### Module 2 - Designing and Discovering Algorithms
 01. [Friday, July 10](./Module2/Lec01-Fri_Jul_10/README.md)
+	* [Today's Spiritual Thought](./Module2/Lec01-Fri_Jul_10/README.md#todays-spiritual-thought)
+	* [Get To Know Your Professor](./Module2/Lec01-Fri_Jul_10/README.md#get-to-know-your-professor)
+	* [Get To Know Each Other](./Module2/Lec01-Fri_Jul_10/README.md#get-to-know-each-other)
 	* [Submitting Today's Participation Artifact](./Module2/Lec01-Fri_Jul_10/README.md#submitting-todays-participation-artifact)
-	* [Code Lab Challenge 0 - Static or Dynamc](./Module2/Lec01-Fri_Jul_10/README.md#code-lab-challenge-0---static-or-dynamc)
+	* [Code Lab Challenge 0 - Static or Dynamic](./Module2/Lec01-Fri_Jul_10/README.md#code-lab-challenge-0---static-or-dynamic)
+	* [Code Lab Challenge 1 - Undo Button Stack](./Module2/Lec01-Fri_Jul_10/README.md#code-lab-challenge-1---undo-button-stack)
+	* [Code Lab Challenge 2 - Locker Number Hashing](./Module2/Lec01-Fri_Jul_10/README.md#code-lab-challenge-2---locker-number-hashing)
+	* [Code Lab Challenge 3 - Campus Map Neighbor Finder](./Module2/Lec01-Fri_Jul_10/README.md#code-lab-challenge-3---campus-map-neighbor-finder)
 
 
 
