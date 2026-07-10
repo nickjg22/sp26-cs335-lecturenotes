@@ -1,0 +1,52 @@
+# Lecture Notes Repository Gitignore
+.notes
+all_notes.md
+*.hook
+cheatsheet*
+*cheatsheet
+*[-.]cheatsheet.*
+*.ig
+ig.*
+*[-.]ig.*
+*[-.]pic.*
+*[-.]pre.*
+*[-.]post.*
+
+# LibreOffice lockfiles
+.~lock.*.*#
+
+# C/C++ cruft
+main
+tags
+cscope.*
+*.[od]
+
+# Java junk
+*.class
+.gradle
+build
+*.jar
+
+# Python paraphernalia
+*.pyc
+__pycache__
+
+# PyCharm pollutants
+.idea
+_showyourwork.sqlite
+
+# Crash trash
+*.core
+
+# Vim vandalism
+*.sw[pon]
+*~
+
+# AI atrocities
+.claude
+.copilot-instructions.md
+.cursorrules
+AGENTS.md
+CLAUDE.md
+CODEX.md
+GEMINI.md
